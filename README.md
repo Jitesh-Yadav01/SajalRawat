@@ -11,7 +11,7 @@
 
 - 📝 I regularly write notes and learnings on coding
 
-- 📫 How to reach me: **youremail@example.com** (replace this with your actual contact info)
+- 📫 How to reach me: **sajalrawat2007@gmail.com** 
 
 - ⚡ Fun fact: I love photography and making fun little JS games!
 
@@ -42,6 +42,6 @@
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/YOUR-IG" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/sajal-rawat-a46021375/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/sajalrwt/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
