@@ -29,13 +29,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SajalRawat&show_icons=true&theme=radical" alt="stats" />
-</p>
-
 ---
 
 ### 📫 Let's Connect
