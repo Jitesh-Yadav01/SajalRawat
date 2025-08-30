@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sajal</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sajal;A+Passionate+Developer;Tech+Enthusiast+%7C+Coder+%7C+Learner" alt="Typing SVG" />
+</p>
+
+---
+
 <h3 align="center">A passionate developer and tech enthusiast</h3>
 
 <p align="center">
@@ -30,9 +35,7 @@
 
 ---
 
-
 ### 📫 Let's Connect
-
 <p align="left">
   <a href="https://www.linkedin.com/in/sajal-rawat-a46021375/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/sajalrwt/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" /></a>
