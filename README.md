@@ -35,6 +35,9 @@
 </p>
 
 ---
+[![An image of @sajalrawat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sajalrawat)](https://holopin.io/@sajalrawat)
+
+---
 
 ### 📊 GitHub Stats & Streaks
 <p align="center">
